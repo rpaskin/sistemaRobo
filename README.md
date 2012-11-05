@@ -40,7 +40,7 @@ Para executar o Programa
 Requer Perl instalado em #!/usr/bin/perl. Perl vem automaticamente em Mac OSX.
 
 ```
-$ ./robo.pl comandos.txt 
+./robo.pl comandos.txt 
 2 1 W
 ```
 
